@@ -2,59 +2,100 @@ const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse/sync');
 
-// ─── Helpers de limpeza ───────────────────────────────────────────────────────
-// Cada função recebe o valor bruto do CSV (string) e retorna o valor limpo
+function parsePP(raw) 
+{
+  const match = raw.match(/\d+/);
+  if (match) return parseInt(match[0]);
 
-function parsePP(raw) {
-  // TODO: extrair o número de strings como "PP 377" ou retornar null se "PP ??"
+  return null;
 }
 
-function parseHP(raw) {
-  // TODO: converter para inteiro, retornar null se inválido
+function parseHP(raw) 
+{
+  const match = raw.match(/\d+/);
+  if (match) return parseInt(match[0]);
+  
+  return null;
 }
 
-function parsePrice(raw) {
-  // TODO: remover "Cr", "≈", vírgulas e converter para inteiro
+function parsePrice(raw) 
+{
+  const cleaned = raw.replace(/,/g, '');
+  const match = cleaned.match(/\d+/);
+  if (match) return parseInt(match[0]);
+  
+  return null;
 }
 
-function parseWeight(raw) {
-  // TODO: converter lbs para float
+function parseWeight(raw) 
+{
+  const match = raw.match(/[\d.]+/);
+  if (match) return parseFloat(match[0]);
+  
+  return null;
 }
 
-function parseCategories(raw) {
-  // TODO: separar por "|" e retornar array de strings em lowercase
-  // ex: "Midship|Racing Car" → ['midship', 'racing car']
+function parseCategories(raw) 
+{
+  return raw.split('|').map(c => c.trim().toLowerCase());
 }
-
-// ─── Classificação nos 6 perfis ──────────────────────────────────────────────
 
 function classifyProfile(car) {
-  // TODO: recebe um carro já com pp (número) e categories (array)
-  // Retorna um dos 6 perfis:
-  //   'track_pro'     → Racing Car, PP > 600
-  //   'track_inter'   → Racing Car, PP 400–600
-  //   'track_amateur' → Racing Car, PP < 400
-  //   'street_pro'    → Road Car, PP > 600
-  //   'street_inter'  → Road Car, PP 400–600
-  //   'street_amateur'→ Road Car, PP < 400
-  // Dica: se pp === null, retorne 'unknown'
-}
+  if (car.pp === null) return 'unknown';
 
-// ─── Pipeline principal ───────────────────────────────────────────────────────
+  const isRacing = car.categories.some(c =>
+    ['racing car', 'gt500', 'le mans', 'nurburgring 24 hours', 'kart'].includes(c)
+  );
+
+  let level;
+  if (car.pp > 600)      level = 'pro';
+  else if (car.pp >= 400) level = 'inter';
+  else                    level = 'amateur';
+
+  return isRacing
+    ? 'track_' + level
+    : 'street_' + level;
+}
 
 function preprocess() {
   const csvPath = path.join(__dirname, '..', 'data', 'gt7_cars.csv');
 
-  // TODO: ler e parsear o CSV
+  // 1. ler o arquivo e parsear o CSV
+  const raw = fs.readFileSync(csvPath, 'utf-8');
+  const records = parse(raw, {
+    columns: true,        // usa a primeira linha como chave dos objetos
+    skip_empty_lines: true,
+    trim: true,
+  });
 
-  // TODO: para cada linha, montar um objeto limpo com:
-  //   { model, pp, hp, price, weight, transmission, categories, profile, imgUrl }
+  // 2. para cada linha, montar um objeto limpo
+  const cars = records.map(row => {
+    const categories = parseCategories(row.category);
+    const pp = parsePP(row.pp);
 
-  // TODO: filtrar carros com profile === 'unknown'
+    const car = {
+      model:        row.model,
+      pp:           pp,
+      hp:           parseHP(row.hp),
+      price:        parsePrice(row.price),
+      weight:       parseWeight(row.lbs),
+      transmission: row.transmission,
+      categories:   categories,
+      profile:      classifyProfile({ pp, categories }),
+      imgUrl:       row.img_url,
+    };
 
-  // TODO: salvar o resultado como data/cars_clean.json
+    return car;
+  });
 
-  console.log('Pré-processamento concluído!');
+  // 3. filtrar carros com profile === 'unknown'
+  const cleanCars = cars.filter(car => car.profile !== 'unknown');
+
+  // 4. salvar como cars_clean.json
+  const outputPath = path.join(__dirname, '..', 'data', 'cars_clean.json');
+  fs.writeFileSync(outputPath, JSON.stringify(cleanCars, null, 2), 'utf-8');
+
+  console.log(`Pré-processamento concluído! ${cleanCars.length} carros salvos.`);
 }
 
 preprocess();
