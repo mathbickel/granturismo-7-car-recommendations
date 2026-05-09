@@ -60,15 +60,13 @@ function classifyProfile(car) {
 function preprocess() {
   const csvPath = path.join(__dirname, '..', 'data', 'gt7_cars.csv');
 
-  // 1. ler o arquivo e parsear o CSV
   const raw = fs.readFileSync(csvPath, 'utf-8');
   const records = parse(raw, {
-    columns: true,        // usa a primeira linha como chave dos objetos
+    columns: true,
     skip_empty_lines: true,
     trim: true,
   });
 
-  // 2. para cada linha, montar um objeto limpo
   const cars = records.map(row => {
     const categories = parseCategories(row.category);
     const pp = parsePP(row.pp);
@@ -88,10 +86,8 @@ function preprocess() {
     return car;
   });
 
-  // 3. filtrar carros com profile === 'unknown'
   const cleanCars = cars.filter(car => car.profile !== 'unknown');
 
-  // 4. salvar como cars_clean.json
   const outputPath = path.join(__dirname, '..', 'data', 'cars_clean.json');
   fs.writeFileSync(outputPath, JSON.stringify(cleanCars, null, 2), 'utf-8');
 
