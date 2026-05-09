@@ -1,0 +1,5094 @@
+[
+  {
+    "model": "Abarth 500 '09",
+    "pp": 377,
+    "hp": 133,
+    "price": 29500,
+    "weight": 2282,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_016.jpg?v=1"
+  },
+  {
+    "model": "Abarth 595 SS '70",
+    "pp": 184,
+    "hp": 30,
+    "price": 48900,
+    "weight": 1036,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_017.jpg?v=1"
+  },
+  {
+    "model": "Alfa Romeo 155 2.5 V6 TI '93",
+    "pp": 673,
+    "hp": 413,
+    "price": 800000,
+    "weight": 2227,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_018.jpg?v=1"
+  },
+  {
+    "model": "Alfa Romeo 4C '14",
+    "pp": 523,
+    "hp": 235,
+    "price": 89100,
+    "weight": 2094,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_019.jpg?v=1"
+  },
+  {
+    "model": "Alfa Romeo 4C Gr.3",
+    "pp": 724,
+    "hp": 528,
+    "price": 450000,
+    "weight": 2690,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_020.jpg?v=1"
+  },
+  {
+    "model": "Alfa Romeo 4C Gr.3 Road Car",
+    "pp": 556,
+    "hp": 443,
+    "price": 300000,
+    "weight": 2910,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_021.jpg?v=1"
+  },
+  {
+    "model": "Alfa Romeo 4C Gr.4",
+    "pp": 627,
+    "hp": 295,
+    "price": 350000,
+    "weight": 2249,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_022.jpg?v=1"
+  },
+  {
+    "model": "Alfa Romeo 8C Competizione '08",
+    "pp": 555,
+    "hp": 442,
+    "price": 350000,
+    "weight": 3494,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_023.jpg?v=2"
+  },
+  {
+    "model": "Alfa Romeo MiTo '09",
+    "pp": 396,
+    "hp": 152,
+    "price": 28500,
+    "weight": 2524,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_025.jpg?v=1"
+  },
+  {
+    "model": "Alpine A110 '17",
+    "pp": 522,
+    "hp": 248,
+    "price": 80000,
+    "weight": 2432,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_026.jpg?v=1"
+  },
+  {
+    "model": "Alpine A110 '72",
+    "pp": 405,
+    "hp": 138,
+    "price": 140000,
+    "weight": 1576,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_027.jpg?v=4"
+  },
+  {
+    "model": "Alpine Alpine VGT",
+    "pp": 656,
+    "hp": 443,
+    "price": 1000000,
+    "weight": 1984,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_029.jpg?v=1"
+  },
+  {
+    "model": "Alpine Alpine VGT '17",
+    "pp": 906,
+    "hp": 594,
+    "price": 1000000,
+    "weight": 2050,
+    "transmission": "RR",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_030.jpg?v=1"
+  },
+  {
+    "model": "Alpine Alpine VGT Race",
+    "pp": 744,
+    "hp": 443,
+    "price": 1000000,
+    "weight": 1984,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_031.jpg?v=1"
+  },
+  {
+    "model": "AMG A 45 AMG '13",
+    "pp": 518,
+    "hp": 355,
+    "price": 64000,
+    "weight": 3428,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_002.jpg?v=1"
+  },
+  {
+    "model": "AMG Mercedes-AMG C 63 S '15",
+    "pp": 571,
+    "hp": 503,
+    "price": 135800,
+    "weight": 3803,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_004.jpg?v=1"
+  },
+  {
+    "model": "AMG Mercedes-AMG GT Black Series '20",
+    "pp": 663,
+    "hp": 719,
+    "price": 420000,
+    "weight": 3395,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_005.jpg?v=1"
+  },
+  {
+    "model": "AMG Mercedes-AMG GT R '17",
+    "pp": 595,
+    "hp": 576,
+    "price": 184000,
+    "weight": 3660,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_006.jpg?v=1"
+  },
+  {
+    "model": "AMG Mercedes-AMG GT S '15",
+    "pp": 577,
+    "hp": 502,
+    "price": 120000,
+    "weight": 3461,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_007.jpg?v=1"
+  },
+  {
+    "model": "AMG Mercedes-AMG GT Safety Car",
+    "pp": 586,
+    "hp": 502,
+    "price": 200000,
+    "weight": 3461,
+    "transmission": "FR",
+    "categories": [
+      "road car",
+      "safety car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_008.jpg?v=1"
+  },
+  {
+    "model": "AMG Mercedes-AMG GT3 '16",
+    "pp": 740,
+    "hp": 614,
+    "price": 450000,
+    "weight": 2921,
+    "transmission": "FR",
+    "categories": [
+      "nurburgring 24 hours",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_009.jpg?v=1"
+  },
+  {
+    "model": "AMG Mercedes-Benz AMG VGT",
+    "pp": 644,
+    "hp": 576,
+    "price": 1000000,
+    "weight": 3053,
+    "transmission": "FR",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_010.jpg?v=2"
+  },
+  {
+    "model": "AMG Mercedes-Benz AMG VGT Racing Series",
+    "pp": 737,
+    "hp": 590,
+    "price": null,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "categories unknown"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com//gts/images/cars/gts_car_050.jpg?v=gts"
+  },
+  {
+    "model": "AMG SLS AMG '10",
+    "pp": 587,
+    "hp": 570,
+    "price": 360000,
+    "weight": 3571,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_012.jpg?v=1"
+  },
+  {
+    "model": "AMG SLS AMG GR.4",
+    "pp": 646,
+    "hp": 419,
+    "price": 350000,
+    "weight": 3120,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_014.jpg?v=1"
+  },
+  {
+    "model": "AMG SLS AMG GT3 '11",
+    "pp": 735,
+    "hp": 614,
+    "price": 450000,
+    "weight": 2976,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_013.jpg?v=1"
+  },
+  {
+    "model": "Amuse Amuse NISMO 380RS Super Leggera",
+    "pp": 552,
+    "hp": 380,
+    "price": 100000,
+    "weight": 3020,
+    "transmission": "FR",
+    "categories": [
+      "professionally tuned"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_032.jpg?v=1"
+  },
+  {
+    "model": "Amuse S2000 GT1 Turbo",
+    "pp": 662,
+    "hp": 616,
+    "price": 250000,
+    "weight": 2469,
+    "transmission": "FR",
+    "categories": [
+      "professionally tuned"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_033.jpg?v=1"
+  },
+  {
+    "model": "Aston Martin DB11 '16",
+    "pp": 578,
+    "hp": 599,
+    "price": 238000,
+    "weight": 3902,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_034.jpg?v=1"
+  },
+  {
+    "model": "Aston Martin DBR9 GT1 '10",
+    "pp": 751,
+    "hp": 599,
+    "price": 800000,
+    "weight": 2425,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_037.jpg?v=1"
+  },
+  {
+    "model": "Aston Martin DP-100 VGT",
+    "pp": 718,
+    "hp": 799,
+    "price": 1000000,
+    "weight": 3031,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_038.jpg?v=1"
+  },
+  {
+    "model": "Aston Martin One-77 '11",
+    "pp": 626,
+    "hp": 748,
+    "price": 1320000,
+    "weight": 3594,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_039.jpg?v=1"
+  },
+  {
+    "model": "Aston Martin V12 Vantage GT3 '12",
+    "pp": 742,
+    "hp": 591,
+    "price": 450000,
+    "weight": 2756,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_040.jpg?v=1"
+  },
+  {
+    "model": "Aston Martin V8 Vantage GR.4",
+    "pp": 644,
+    "hp": 399,
+    "price": 350000,
+    "weight": 2976,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_041.jpg?v=1"
+  },
+  {
+    "model": "Aston Martin V8 Vantage S '15",
+    "pp": 552,
+    "hp": 429,
+    "price": 180000,
+    "weight": 3549,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_042.jpg?v=1"
+  },
+  {
+    "model": "Aston Martin Vulcan '16",
+    "pp": 756,
+    "hp": 820,
+    "price": 3300000,
+    "weight": 2998,
+    "transmission": "FR",
+    "categories": [
+      "hypercar",
+      "road car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_043.jpg?v=1"
+  },
+  {
+    "model": "Audi Audi e-tron VGT",
+    "pp": 848,
+    "hp": 803,
+    "price": 1000000,
+    "weight": 3197,
+    "transmission": "4WD",
+    "categories": [
+      "electric car",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_045.jpg?v=1"
+  },
+  {
+    "model": "Audi Audi VGT",
+    "pp": 927,
+    "hp": 735,
+    "price": 1000000,
+    "weight": 2756,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_044.jpg?v=1"
+  },
+  {
+    "model": "Audi R18 '16",
+    "pp": 924,
+    "hp": 506,
+    "price": 1000000,
+    "weight": 1929,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_046.jpg?v=1"
+  },
+  {
+    "model": "Audi R18 TDI '11",
+    "pp": 898,
+    "hp": 532,
+    "price": 3000000,
+    "weight": 1984,
+    "transmission": "MR",
+    "categories": [
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_047.jpg?v=1"
+  },
+  {
+    "model": "Audi R8 4.2 '07",
+    "pp": 558,
+    "hp": 414,
+    "price": 166700,
+    "weight": 3439,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_048.jpg?v=1"
+  },
+  {
+    "model": "Audi R8 LMS '15",
+    "pp": 754,
+    "hp": 585,
+    "price": 800000,
+    "weight": 2701,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "nurburgring 24 hours",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_049.jpg?v=1"
+  },
+  {
+    "model": "Audi R8 LMS Evo '19",
+    "pp": 752,
+    "hp": 576,
+    "price": 450000,
+    "weight": 2723,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_050.jpg?v=1"
+  },
+  {
+    "model": "Audi TT Coupé 3.2 quattro '03",
+    "pp": 462,
+    "hp": 239,
+    "price": 57800,
+    "weight": 3351,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_052.jpg?v=1"
+  },
+  {
+    "model": "Audi TT CUP '16",
+    "pp": 638,
+    "hp": 335,
+    "price": 350000,
+    "weight": 2480,
+    "transmission": "FF",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_053.jpg?v=1"
+  },
+  {
+    "model": "Audi TTS Coupé '14",
+    "pp": 513,
+    "hp": 305,
+    "price": 76800,
+    "weight": 3053,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_054.jpg?v=1"
+  },
+  {
+    "model": "Autobianchi A112 Abarth '85",
+    "pp": 299,
+    "hp": 71,
+    "price": 31100,
+    "weight": 1565,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_055.jpg?v=1"
+  },
+  {
+    "model": "BAC Mono '16",
+    "pp": 641,
+    "hp": 304,
+    "price": 240000,
+    "weight": 1279,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_073.jpg?v=1"
+  },
+  {
+    "model": "BMW 3.0 CSL '71",
+    "pp": 399,
+    "hp": 177,
+    "price": 146700,
+    "weight": 2568,
+    "transmission": "FR",
+    "categories": [
+      "categories unknown"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_056.jpg?v=1"
+  },
+  {
+    "model": "BMW 3.0 CSL '73",
+    "pp": 416,
+    "hp": 205,
+    "price": null,
+    "weight": 2756,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_057.jpg?v=4"
+  },
+  {
+    "model": "BMW BMW VGT",
+    "pp": 723,
+    "hp": 541,
+    "price": 1000000,
+    "weight": 2601,
+    "transmission": "FR",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_058.jpg?v=1"
+  },
+  {
+    "model": "BMW i3 2015",
+    "pp": 386,
+    "hp": 166,
+    "price": 49900,
+    "weight": 2778,
+    "transmission": "MR",
+    "categories": [
+      "electric car",
+      "midship",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_072.jpg?v=1"
+  },
+  {
+    "model": "BMW M3 '03",
+    "pp": 522,
+    "hp": 339,
+    "price": 84000,
+    "weight": 3439,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_059.jpg?v=1"
+  },
+  {
+    "model": "BMW M3 '07",
+    "pp": 533,
+    "hp": 415,
+    "price": 93000,
+    "weight": 3649,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_060.jpg?v=1"
+  },
+  {
+    "model": "BMW M3 GT '11",
+    "pp": 725,
+    "hp": 500,
+    "price": 600000,
+    "weight": 2745,
+    "transmission": "FR",
+    "categories": [
+      "nurburgring 24 hours",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_062.jpg?v=1"
+  },
+  {
+    "model": "BMW M3 Sport Evolution '89",
+    "pp": 455,
+    "hp": 235,
+    "price": 200000,
+    "weight": 2646,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_063.jpg?v=1"
+  },
+  {
+    "model": "BMW M4 '14",
+    "pp": 562,
+    "hp": 425,
+    "price": 120000,
+    "weight": 3300,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_064.jpg?v=1"
+  },
+  {
+    "model": "BMW M4 GR.4",
+    "pp": 627,
+    "hp": 394,
+    "price": 350000,
+    "weight": 3009,
+    "transmission": "FR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_065.jpg?v=1"
+  },
+  {
+    "model": "BMW M4 Safety Car",
+    "pp": 563,
+    "hp": 425,
+    "price": 150000,
+    "weight": 3300,
+    "transmission": "FR",
+    "categories": [
+      "road car",
+      "safety car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_066.jpg?v=1"
+  },
+  {
+    "model": "BMW M6 GT3 Endurance Model '16",
+    "pp": 732,
+    "hp": 584,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "nurburgring 24 hours",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_067.jpg?v=1"
+  },
+  {
+    "model": "BMW M6 GT3 Sprint Model '16",
+    "pp": 732,
+    "hp": 584,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_068.jpg?v=1"
+  },
+  {
+    "model": "BMW Z4 GT3 '11",
+    "pp": 723,
+    "hp": 522,
+    "price": 450000,
+    "weight": 2624,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_070.jpg?v=1"
+  },
+  {
+    "model": "BMW Z8 '01",
+    "pp": 535,
+    "hp": 395,
+    "price": 300000,
+    "weight": 3549,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_071.jpg?v=1"
+  },
+  {
+    "model": "Bugatti Bugatti VGT",
+    "pp": 906,
+    "hp": 1,
+    "price": 1000000,
+    "weight": 3086,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_074.jpg?v=1"
+  },
+  {
+    "model": "Bugatti Bugatti VGT (GR.1)",
+    "pp": 940,
+    "hp": 641,
+    "price": 1000000,
+    "weight": 2161,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_075.jpg?v=1"
+  },
+  {
+    "model": "Bugatti Veyron 16.4 '13",
+    "pp": 664,
+    "hp": 986,
+    "price": 2000000,
+    "weight": 4162,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_076.jpg?v=1"
+  },
+  {
+    "model": "Bugatti Veyron Gr.4",
+    "pp": 640,
+    "hp": 433,
+    "price": 350000,
+    "weight": 3638,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_077.jpg?v=1"
+  },
+  {
+    "model": "Chaparral 2J '70",
+    "pp": 874,
+    "hp": 679,
+    "price": 2500000,
+    "weight": 1810,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_078.jpg?v=1"
+  },
+  {
+    "model": "Chaparral Chevrolet Chaparral 2X VGT",
+    "pp": 1032,
+    "hp": 81,
+    "price": 1000000,
+    "weight": null,
+    "transmission": "??",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_079.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Camaro SS '16",
+    "pp": 553,
+    "hp": 453,
+    "price": 35000,
+    "weight": 3686,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_080.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Camaro Z28 '69",
+    "pp": 433,
+    "hp": 289,
+    "price": 82000,
+    "weight": 3120,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com//gts/images/cars/gts_car_298.jpg?v=gts"
+  },
+  {
+    "model": "Chevrolet Camaro ZL1 1LE Package '18",
+    "pp": 621,
+    "hp": 649,
+    "price": 79500,
+    "weight": 3818,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_082.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Corvette (C2) '63",
+    "pp": 482,
+    "hp": 359,
+    "price": 178000,
+    "weight": 3042,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_083.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Corvette C7 '14",
+    "pp": 571,
+    "hp": 453,
+    "price": 51000,
+    "weight": 3307,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_084.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Corvette C7 Gr.3",
+    "pp": 728,
+    "hp": 571,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_085.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Corvette C7 Gr.3 Road Car",
+    "pp": 570,
+    "hp": 493,
+    "price": 300000,
+    "weight": 3263,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_086.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Corvette C7 Gr.4",
+    "pp": 649,
+    "hp": 414,
+    "price": 350000,
+    "weight": 2976,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_087.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Corvette C7 ZR1 '19",
+    "pp": 641,
+    "hp": 754,
+    "price": 134000,
+    "weight": 3560,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_088.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Corvette Convertible (C3) '69",
+    "pp": 443,
+    "hp": 303,
+    "price": 65000,
+    "weight": 3422,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_089.jpg?v=3"
+  },
+  {
+    "model": "Chevrolet Corvette ZR-1 (C4) '89",
+    "pp": 502,
+    "hp": 375,
+    "price": 105000,
+    "weight": 3466,
+    "transmission": "FR",
+    "categories": [
+      "categories unknown"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_092.jpg?v=1"
+  },
+  {
+    "model": "Chevrolet Corvette ZR1 (C6) '09",
+    "pp": 603,
+    "hp": 639,
+    "price": 120000,
+    "weight": 3325,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_093.jpg?v=1"
+  },
+  {
+    "model": "Chris Holstrom Concepts CHC 1967 Chevy Nova",
+    "pp": 608,
+    "hp": 732,
+    "price": 300000,
+    "weight": 3012,
+    "transmission": "FR",
+    "categories": [
+      "gran turismo award",
+      "professionally tuned"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_094.jpg?v=1"
+  },
+  {
+    "model": "Citroen GT BY Citroën GR.4",
+    "pp": 653,
+    "hp": 394,
+    "price": 350000,
+    "weight": 2866,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_095.jpg?v=1"
+  },
+  {
+    "model": "Citroen GT by Citroën Race Car (Gr.3)",
+    "pp": 762,
+    "hp": 599,
+    "price": 450000,
+    "weight": 2646,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_096.jpg?v=1"
+  },
+  {
+    "model": "Citroen GT by Citroën Road Car",
+    "pp": 589,
+    "hp": 500,
+    "price": 1000000,
+    "weight": 3197,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_097.jpg?v=1"
+  },
+  {
+    "model": "Daihatsu Copen '02",
+    "pp": 279,
+    "hp": 62,
+    "price": 18000,
+    "weight": 1830,
+    "transmission": "FF",
+    "categories": [
+      "kei car",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_100.jpg?v=1"
+  },
+  {
+    "model": "Daihatsu COPEN RJ VGT",
+    "pp": 484,
+    "hp": 146,
+    "price": 1000000,
+    "weight": 1323,
+    "transmission": "FF",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_101.jpg?v=1"
+  },
+  {
+    "model": "De Tomaso Mangusta '69",
+    "pp": 476,
+    "hp": 300,
+    "price": 245000,
+    "weight": 2612,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_103.jpg?v=1"
+  },
+  {
+    "model": "De Tomaso Pantera '71",
+    "pp": 462,
+    "hp": 330,
+    "price": null,
+    "weight": 3131,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_102.jpg?v=3"
+  },
+  {
+    "model": "DMC DeLorean S2 '04",
+    "pp": 434,
+    "hp": 197,
+    "price": 525000,
+    "weight": 2840,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_098.jpg?v=1"
+  },
+  {
+    "model": "Dodge Challenger R/T '70",
+    "pp": 463,
+    "hp": 425,
+    "price": 253000,
+    "weight": 3801,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_104.jpg?v=1"
+  },
+  {
+    "model": "Dodge Charger SRT Hellcat '15",
+    "pp": 591,
+    "hp": 707,
+    "price": 76800,
+    "weight": 4365,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_105.jpg?v=1"
+  },
+  {
+    "model": "Dodge Charger SRT Hellcat Safety Car",
+    "pp": 592,
+    "hp": 707,
+    "price": 100000,
+    "weight": 4365,
+    "transmission": "FR",
+    "categories": [
+      "road car",
+      "safety car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_106.jpg?v=1"
+  },
+  {
+    "model": "Dodge SRT Tomahawk GTS-R VGT",
+    "pp": 1140,
+    "hp": 1,
+    "price": 1000000,
+    "weight": 1462,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_107.jpg?v=1"
+  },
+  {
+    "model": "Dodge SRT Tomahawk S VGT",
+    "pp": 916,
+    "hp": 1,
+    "price": 1000000,
+    "weight": 2030,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_108.jpg?v=1"
+  },
+  {
+    "model": "Dodge SRT Tomahawk VGT (Gr.1)",
+    "pp": 946,
+    "hp": 693,
+    "price": 1000000,
+    "weight": 2094,
+    "transmission": "MR",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_109.jpg?v=1"
+  },
+  {
+    "model": "Dodge SRT Tomahawk X VGT",
+    "pp": 1336,
+    "hp": 2,
+    "price": 1000000,
+    "weight": 1651,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_110.jpg?v=1"
+  },
+  {
+    "model": "Dodge Super Bee '70",
+    "pp": 429,
+    "hp": 328,
+    "price": null,
+    "weight": 3380,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_111.jpg?v=1"
+  },
+  {
+    "model": "Dodge Viper Gr.4",
+    "pp": 649,
+    "hp": 428,
+    "price": 350000,
+    "weight": 3086,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_114.jpg?v=1"
+  },
+  {
+    "model": "Dodge Viper GTS '02",
+    "pp": 554,
+    "hp": 448,
+    "price": 120000,
+    "weight": 3459,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_112.jpg?v=1"
+  },
+  {
+    "model": "Dodge Viper GTS '13",
+    "pp": 592,
+    "hp": 640,
+    "price": 140000,
+    "weight": 3430,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_113.jpg?v=1"
+  },
+  {
+    "model": "Dodge Viper SRT GT3-R '15",
+    "pp": 756,
+    "hp": 678,
+    "price": 450000,
+    "weight": 2844,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_115.jpg?v=1"
+  },
+  {
+    "model": "Dodge Viper SRT10 Coupe '06",
+    "pp": 571,
+    "hp": 508,
+    "price": 130000,
+    "weight": 3450,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_116.jpg?v=1"
+  },
+  {
+    "model": "DS Automobiles DS3 Racing '11",
+    "pp": 438,
+    "hp": 203,
+    "price": 31000,
+    "weight": 2568,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_099.jpg?v=1"
+  },
+  {
+    "model": "Eckert's Rod & Customs Mach Forty",
+    "pp": 626,
+    "hp": 787,
+    "price": 300000,
+    "weight": 3501,
+    "transmission": "MR",
+    "categories": [
+      "gran turismo award",
+      "midship",
+      "professionally tuned"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_117.jpg?v=1"
+  },
+  {
+    "model": "Ferrari 458 Italia '09",
+    "pp": 609,
+    "hp": 563,
+    "price": 283000,
+    "weight": 3274,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_123.jpg?v=1"
+  },
+  {
+    "model": "Ferrari 458 Italia Gr.4",
+    "pp": 639,
+    "hp": 374,
+    "price": 350000,
+    "weight": 2976,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_125.jpg?v=1"
+  },
+  {
+    "model": "Ferrari 458 Italia GT3 '13",
+    "pp": 747,
+    "hp": 542,
+    "price": 450000,
+    "weight": 2679,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_124.jpg?v=1"
+  },
+  {
+    "model": "Ferrari 500 Mondial Pinin Farina '54",
+    "pp": 463,
+    "hp": 168,
+    "price": 4000000,
+    "weight": 1587,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_126.jpg?v=2"
+  },
+  {
+    "model": "Ferrari 512 BB '76",
+    "pp": 514,
+    "hp": 359,
+    "price": null,
+    "weight": 3086,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_127.jpg?v=3"
+  },
+  {
+    "model": "Ferrari Dino 246 GT '71",
+    "pp": 436,
+    "hp": 194,
+    "price": null,
+    "weight": 2381,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_128.jpg?v=3"
+  },
+  {
+    "model": "Ferrari Enzo Ferrari '02",
+    "pp": 655,
+    "hp": 658,
+    "price": 2500000,
+    "weight": 2767,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_129.jpg?v=1"
+  },
+  {
+    "model": "Ferrari F12berlinetta '12",
+    "pp": 634,
+    "hp": 730,
+    "price": 373000,
+    "weight": 3362,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_130.jpg?v=1"
+  },
+  {
+    "model": "Ferrari F40 '92",
+    "pp": 603,
+    "hp": 471,
+    "price": 1350000,
+    "weight": 2425,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_131.jpg?v=1"
+  },
+  {
+    "model": "Ferrari F430 '06",
+    "pp": 591,
+    "hp": 495,
+    "price": 243200,
+    "weight": 3197,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_132.jpg?v=1"
+  },
+  {
+    "model": "Ferrari F50 '95",
+    "pp": 609,
+    "hp": 511,
+    "price": 3300000,
+    "weight": 2712,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_133.jpg?v=1"
+  },
+  {
+    "model": "Ferrari F8 Tributo '19",
+    "pp": 687,
+    "hp": 710,
+    "price": 330500,
+    "weight": 2932,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_134.jpg?v=1"
+  },
+  {
+    "model": "Ferrari FXX K' '14",
+    "pp": 812,
+    "hp": 1,
+    "price": 3600000,
+    "weight": 2568,
+    "transmission": "MR",
+    "categories": [
+      "hybrid car",
+      "hypercar",
+      "midship",
+      "road car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_424.jpg?v=1"
+  },
+  {
+    "model": "Ferrari LaFerrari '13",
+    "pp": 738,
+    "hp": 949,
+    "price": 1600000,
+    "weight": 2767,
+    "transmission": "MR",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_136.jpg?v=1"
+  },
+  {
+    "model": "Fiat 500 1.2 8V Lounge SS '08",
+    "pp": 267,
+    "hp": 65,
+    "price": 17000,
+    "weight": 2227,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_138.jpg?v=1"
+  },
+  {
+    "model": "Fiat 500 F '68",
+    "pp": 86,
+    "hp": 17,
+    "price": 21000,
+    "weight": 1146,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_139.jpg?v=1"
+  },
+  {
+    "model": "Ford F-150 SVT Raptor '11",
+    "pp": 417,
+    "hp": 411,
+    "price": 95000,
+    "weight": 6005,
+    "transmission": "4WD",
+    "categories": [
+      "pickup truck",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_140.jpg?v=2"
+  },
+  {
+    "model": "Ford Focus Gr.B Rally Car",
+    "pp": 651,
+    "hp": 538,
+    "price": 450000,
+    "weight": 2778,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_141.jpg?v=2"
+  },
+  {
+    "model": "Ford Focus RS '18",
+    "pp": 514,
+    "hp": 350,
+    "price": 41000,
+    "weight": 3433,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_142.jpg?v=2"
+  },
+  {
+    "model": "Ford Focus ST '15",
+    "pp": 491,
+    "hp": 250,
+    "price": 29250,
+    "weight": 3223,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_143.jpg?v=2"
+  },
+  {
+    "model": "Ford Ford GT '06",
+    "pp": 597,
+    "hp": 550,
+    "price": 460000,
+    "weight": 3199,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_144.jpg?v=2"
+  },
+  {
+    "model": "Ford Ford GT '17",
+    "pp": 621,
+    "hp": 646,
+    "price": 550000,
+    "weight": 3053,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_145.jpg?v=2"
+  },
+  {
+    "model": "Ford GT LM Race Car Spec II",
+    "pp": 752,
+    "hp": 606,
+    "price": 1600000,
+    "weight": 2491,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_146.jpg?v=2"
+  },
+  {
+    "model": "Ford GT LM Spec II Test Car",
+    "pp": 760,
+    "hp": 590,
+    "price": 1200000,
+    "weight": 2568,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_147.jpg?v=2"
+  },
+  {
+    "model": "Ford GT40 GT Race Car '18",
+    "pp": 734,
+    "hp": 527,
+    "price": 1000000,
+    "weight": 2646,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_148.jpg?v=2"
+  },
+  {
+    "model": "Ford GT40 Mark I '66",
+    "pp": 549,
+    "hp": 354,
+    "price": 5600000,
+    "weight": 2381,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_149.jpg?v=1"
+  },
+  {
+    "model": "Ford Mark IV Race Car '67",
+    "pp": 708,
+    "hp": 503,
+    "price": 4600000,
+    "weight": 2205,
+    "transmission": "MR",
+    "categories": [
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_150.jpg?v=1"
+  },
+  {
+    "model": "Ford Mustang Boss 429 '69",
+    "pp": 486,
+    "hp": 734,
+    "price": 259000,
+    "weight": 3558,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_151.jpg?v=1"
+  },
+  {
+    "model": "Ford Mustang Gr.3",
+    "pp": 726,
+    "hp": 568,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_153.jpg?v=2"
+  },
+  {
+    "model": "Ford Mustang Gr.3 Road Car",
+    "pp": 559,
+    "hp": 502,
+    "price": 300000,
+    "weight": 3307,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_154.jpg?v=2"
+  },
+  {
+    "model": "Ford Mustang Gr.4",
+    "pp": 639,
+    "hp": 395,
+    "price": 350000,
+    "weight": 3086,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_155.jpg?v=2"
+  },
+  {
+    "model": "Ford Mustang Gr.B Rally Car",
+    "pp": 651,
+    "hp": 549,
+    "price": 450000,
+    "weight": 3042,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_156.jpg?v=2"
+  },
+  {
+    "model": "Ford Mustang GT '15",
+    "pp": 536,
+    "hp": 434,
+    "price": 44310,
+    "weight": 3706,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_152.jpg?v=2"
+  },
+  {
+    "model": "Ford Mustang Mach 1 '71",
+    "pp": 428,
+    "hp": 302,
+    "price": null,
+    "weight": 3560,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_157.jpg?v=1"
+  },
+  {
+    "model": "Ford Shelby GT350R '16",
+    "pp": 574,
+    "hp": 525,
+    "price": 75000,
+    "weight": 3655,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_158.jpg?v=2"
+  },
+  {
+    "model": "Genesis G70 3.3T AWD P.Package '22",
+    "pp": 502,
+    "hp": 366,
+    "price": 96500,
+    "weight": 4001,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_159.jpg?v=1"
+  },
+  {
+    "model": "Genesis G70 GR4",
+    "pp": 653,
+    "hp": 414,
+    "price": 350000,
+    "weight": 3086,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_160.jpg?v=1"
+  },
+  {
+    "model": "Genesis Genesis X GR3",
+    "pp": 724,
+    "hp": 547,
+    "price": 450000,
+    "weight": 2822,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_161.jpg?v=1"
+  },
+  {
+    "model": "Gran Turismo F1500T-A",
+    "pp": 909,
+    "hp": 986,
+    "price": 1000000,
+    "weight": 1190,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_163.jpg?v=1"
+  },
+  {
+    "model": "Gran Turismo Racing Kart 125 Shifter",
+    "pp": 587,
+    "hp": 49,
+    "price": 10000,
+    "weight": 231,
+    "transmission": "MR",
+    "categories": [
+      "kart",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_162.jpg?v=1"
+  },
+  {
+    "model": "Gran Turismo Red Bull X2014 Junior",
+    "pp": 699,
+    "hp": 246,
+    "price": 350000,
+    "weight": 1213,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_164.jpg?v=1"
+  },
+  {
+    "model": "Gran Turismo Red Bull X2014 Standard",
+    "pp": 1066,
+    "hp": 798,
+    "price": 3000000,
+    "weight": 1433,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_165.jpg?v=1"
+  },
+  {
+    "model": "Gran Turismo Red Bull X2019 Competition",
+    "pp": 958,
+    "hp": 804,
+    "price": 3000000,
+    "weight": 1433,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_166.jpg?v=1"
+  },
+  {
+    "model": "Greddy Greddy Fugu Z",
+    "pp": 542,
+    "hp": 294,
+    "price": 300000,
+    "weight": 2425,
+    "transmission": "FR",
+    "categories": [
+      "gran turismo award",
+      "professionally tuned"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_167.jpg?v=1"
+  },
+  {
+    "model": "Honda 2&4 powered by RC213V",
+    "pp": 555,
+    "hp": 211,
+    "price": 1000000,
+    "weight": 893,
+    "transmission": "MR",
+    "categories": [
+      "concept car",
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_168.jpg?v=1"
+  },
+  {
+    "model": "Honda Beat '91",
+    "pp": 310,
+    "hp": 64,
+    "price": null,
+    "weight": 1676,
+    "transmission": "MR",
+    "categories": [
+      "kei car",
+      "midship",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_169.jpg?v=3"
+  },
+  {
+    "model": "Honda Civic Type R (EK) '97",
+    "pp": 413,
+    "hp": 176,
+    "price": 51200,
+    "weight": 2315,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_170.jpg?v=1"
+  },
+  {
+    "model": "Honda Civic Type R (EK) '98",
+    "pp": 414,
+    "hp": 181,
+    "price": 35000,
+    "weight": 2315,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_171.jpg?v=1"
+  },
+  {
+    "model": "Honda Civic Type R (EK) Touring Car",
+    "pp": 519,
+    "hp": 247,
+    "price": 116600,
+    "weight": 1863,
+    "transmission": "FF",
+    "categories": [
+      "professionally tuned"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_172.jpg?v=1"
+  },
+  {
+    "model": "Honda Civic Type R (FK2) '15",
+    "pp": 505,
+    "hp": 305,
+    "price": 42800,
+    "weight": 3042,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_173.jpg?v=1"
+  },
+  {
+    "model": "Honda Civic Type R Limited Edition (FK8) '20",
+    "pp": 517,
+    "hp": 315,
+    "price": 55000,
+    "weight": 3020,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_174.jpg?v=1"
+  },
+  {
+    "model": "Honda Fit Hybrid '14",
+    "pp": 328,
+    "hp": 138,
+    "price": 16800,
+    "weight": 2381,
+    "transmission": "FF",
+    "categories": [
+      "hybrid car",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_175.jpg?v=1"
+  },
+  {
+    "model": "Honda Honda Sports VGT",
+    "pp": 658,
+    "hp": 403,
+    "price": 1000000,
+    "weight": 1982,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_176.jpg?v=1"
+  },
+  {
+    "model": "Honda Integra Type R (DC2) '95",
+    "pp": 431,
+    "hp": 197,
+    "price": 67000,
+    "weight": 2337,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_177.jpg?v=1"
+  },
+  {
+    "model": "Honda Integra Type R (DC2) '98",
+    "pp": 435,
+    "hp": 194,
+    "price": 35000,
+    "weight": 2381,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_178.jpg?v=2"
+  },
+  {
+    "model": "Honda NSX '17",
+    "pp": 577,
+    "hp": 570,
+    "price": 230000,
+    "weight": 3924,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_179.jpg?v=1"
+  },
+  {
+    "model": "Honda NSX CONCEPT-GT '16",
+    "pp": 855,
+    "hp": 603,
+    "price": 800000,
+    "weight": 2313,
+    "transmission": "MR",
+    "categories": [
+      "gt500",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_180.jpg?v=1"
+  },
+  {
+    "model": "Honda NSX Gr.3",
+    "pp": 729,
+    "hp": 568,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_182.jpg?v=1"
+  },
+  {
+    "model": "Honda NSX Gr.4",
+    "pp": 647,
+    "hp": 394,
+    "price": 350000,
+    "weight": 2998,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_183.jpg?v=1"
+  },
+  {
+    "model": "Honda NSX Gr.B Rally Car",
+    "pp": 656,
+    "hp": 557,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_184.jpg?v=1"
+  },
+  {
+    "model": "Honda NSX GT500 '08",
+    "pp": 804,
+    "hp": 518,
+    "price": 800000,
+    "weight": 2535,
+    "transmission": "MR",
+    "categories": [
+      "gt500",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_181.jpg?v=1"
+  },
+  {
+    "model": "Honda NSX Type R '02",
+    "pp": 526,
+    "hp": 290,
+    "price": 500000,
+    "weight": 2800,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_185.jpg?v=1"
+  },
+  {
+    "model": "Honda NSX Type R '92",
+    "pp": 522,
+    "hp": 288,
+    "price": 398200,
+    "weight": 2712,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_186.jpg?v=4"
+  },
+  {
+    "model": "Honda S2000 '99",
+    "pp": 475,
+    "hp": 242,
+    "price": 100100,
+    "weight": 2734,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_187.jpg?v=2"
+  },
+  {
+    "model": "Honda S660 '15",
+    "pp": 331,
+    "hp": 63,
+    "price": 19800,
+    "weight": 1830,
+    "transmission": "MR",
+    "categories": [
+      "kei car",
+      "midship",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_188.jpg?v=1"
+  },
+  {
+    "model": "Honda S800 '66",
+    "pp": 272,
+    "hp": 68,
+    "price": 44800,
+    "weight": 1587,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_189.jpg?v=1"
+  },
+  {
+    "model": "Hyundai Genesis Coupe 3.8 '13",
+    "pp": 503,
+    "hp": 343,
+    "price": 33000,
+    "weight": 3433,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_190.jpg?v=1"
+  },
+  {
+    "model": "Hyundai Genesis Gr.3",
+    "pp": 730,
+    "hp": 575,
+    "price": 450000,
+    "weight": 2756,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_191.jpg?v=1"
+  },
+  {
+    "model": "Hyundai Genesis Gr.4",
+    "pp": 633,
+    "hp": 384,
+    "price": 350000,
+    "weight": 2976,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_192.jpg?v=1"
+  },
+  {
+    "model": "Hyundai Genesis GR.B Rally Car",
+    "pp": 648,
+    "hp": 499,
+    "price": 450000,
+    "weight": 2756,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_193.jpg?v=1"
+  },
+  {
+    "model": "Hyundai HYUNDAI N 2025 VGT",
+    "pp": 1000,
+    "hp": 870,
+    "price": 1000000,
+    "weight": 2143,
+    "transmission": "4WD",
+    "categories": [
+      "electric car",
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_195.jpg?v=1"
+  },
+  {
+    "model": "Hyundai HYUNDAI N 2025 VGT (Gr.1)",
+    "pp": 929,
+    "hp": 640,
+    "price": 1000000,
+    "weight": 2143,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_194.jpg?v=1"
+  },
+  {
+    "model": "Infiniti INFINITI CONCEPT VGT",
+    "pp": 643,
+    "hp": 535,
+    "price": 1000000,
+    "weight": 3704,
+    "transmission": "FR",
+    "categories": [
+      "hybrid car",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_196.jpg?v=1"
+  },
+  {
+    "model": "Jaguar E-Type Coupé '61",
+    "pp": 430,
+    "hp": 264,
+    "price": 162000,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_198.jpg?v=1"
+  },
+  {
+    "model": "Jaguar F-Type Gr.3",
+    "pp": 727,
+    "hp": 552,
+    "price": 450000,
+    "weight": 2756,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_199.jpg?v=1"
+  },
+  {
+    "model": "Jaguar F-Type Gr.4",
+    "pp": 642,
+    "hp": 399,
+    "price": 350000,
+    "weight": 2976,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_200.jpg?v=1"
+  },
+  {
+    "model": "Jaguar F-Type R '14",
+    "pp": 566,
+    "hp": 542,
+    "price": 128600,
+    "weight": 3638,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_201.jpg?v=1"
+  },
+  {
+    "model": "Jaguar Jaguar VFT SV",
+    "pp": 1035,
+    "hp": 1,
+    "price": 1000000,
+    "weight": 3086,
+    "transmission": "4WD",
+    "categories": [
+      "electric car",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_425.jpg?v=1"
+  },
+  {
+    "model": "Jaguar Jaguar VGT Coupé",
+    "pp": 750,
+    "hp": 1,
+    "price": 1000000,
+    "weight": 3086,
+    "transmission": "4WD",
+    "categories": [
+      "electric car",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_202.jpg?v=1"
+  },
+  {
+    "model": "Jaguar Jaguar VGT Roadster",
+    "pp": 748,
+    "hp": 1,
+    "price": 1000000,
+    "weight": 3086,
+    "transmission": "4WD",
+    "categories": [
+      "electric car",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_203.jpg?v=1"
+  },
+  {
+    "model": "Jaguar XJ13 '66",
+    "pp": 704,
+    "hp": 510,
+    "price": 2000000,
+    "weight": 2200,
+    "transmission": "MR",
+    "categories": [
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_204.jpg?v=1"
+  },
+  {
+    "model": "Jeep Willys MB '45",
+    "pp": 197,
+    "hp": 60,
+    "price": 27000,
+    "weight": 2454,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/missing.png"
+  },
+  {
+    "model": "KTM X-BOW R '12",
+    "pp": 600,
+    "hp": 298,
+    "price": 100000,
+    "weight": 1742,
+    "transmission": "MR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_207.jpg?v=1"
+  },
+  {
+    "model": "Lamborghini Aventador LP 700-4 '11",
+    "pp": 628,
+    "hp": 690,
+    "price": 400000,
+    "weight": 3472,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_208.jpg?v=1"
+  },
+  {
+    "model": "Lamborghini Aventador LP 750-4 SV '15",
+    "pp": 665,
+    "hp": 739,
+    "price": 500000,
+    "weight": 3362,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_209.jpg?v=1"
+  },
+  {
+    "model": "Lamborghini Countach 25th Anniversary '88",
+    "pp": 521,
+    "hp": 443,
+    "price": 713300,
+    "weight": 3285,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_210.jpg?v=3"
+  },
+  {
+    "model": "Lamborghini Diablo GT '00",
+    "pp": 589,
+    "hp": 570,
+    "price": null,
+    "weight": 3285,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_212.jpg?v=1"
+  },
+  {
+    "model": "Lamborghini Huracán Gr.4",
+    "pp": 664,
+    "hp": 404,
+    "price": 350000,
+    "weight": 3009,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_214.jpg?v=1"
+  },
+  {
+    "model": "Lamborghini Huracán GT3 '15",
+    "pp": 754,
+    "hp": 576,
+    "price": 450000,
+    "weight": 2712,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_213.jpg?v=1"
+  },
+  {
+    "model": "Lamborghini Huracán LP 610-4 '15",
+    "pp": 624,
+    "hp": 601,
+    "price": 297000,
+    "weight": 3135,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_215.jpg?v=1"
+  },
+  {
+    "model": "Lamborghini Lambo V12 VGT",
+    "pp": 820,
+    "hp": 774,
+    "price": 1000000,
+    "weight": 1806,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_216.jpg?v=1"
+  },
+  {
+    "model": "Lamborghini Murciélago LP 640 '09",
+    "pp": 608,
+    "hp": 631,
+    "price": 385600,
+    "weight": 3671,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_218.jpg?v=2"
+  },
+  {
+    "model": "Lamborghini Veneno '14",
+    "pp": 692,
+    "hp": 739,
+    "price": 3640000,
+    "weight": 3197,
+    "transmission": "4WD",
+    "categories": [
+      "hypercar",
+      "midship",
+      "road car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_219.jpg?v=1"
+  },
+  {
+    "model": "Lancia Delta HF Integrale Evoluzione '91",
+    "pp": 395,
+    "hp": 212,
+    "price": null,
+    "weight": 2976,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_221.jpg?v=2"
+  },
+  {
+    "model": "Lancia Stratos '73",
+    "pp": 434,
+    "hp": 185,
+    "price": 532100,
+    "weight": 2161,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_220.jpg?v=1"
+  },
+  {
+    "model": "Lexus LC500 '17",
+    "pp": 544,
+    "hp": 469,
+    "price": 150000,
+    "weight": 4277,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_222.jpg?v=1"
+  },
+  {
+    "model": "Lexus LF-LC GT VGT",
+    "pp": 851,
+    "hp": 612,
+    "price": 1000000,
+    "weight": 2370,
+    "transmission": "FR",
+    "categories": [
+      "hybrid car",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_223.jpg?v=1"
+  },
+  {
+    "model": "Lexus R CF Gr.4",
+    "pp": 640,
+    "hp": 419,
+    "price": 350000,
+    "weight": 3086,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_228.jpg?v=1"
+  },
+  {
+    "model": "Lexus RC F '14",
+    "pp": 543,
+    "hp": 469,
+    "price": 95300,
+    "weight": 3946,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_224.jpg?v=1"
+  },
+  {
+    "model": "Lexus RC F GT3 '17",
+    "pp": 721,
+    "hp": 535,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_225.jpg?v=1"
+  },
+  {
+    "model": "Lexus RC F GT3 prototype '16",
+    "pp": 721,
+    "hp": 527,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_226.jpg?v=1"
+  },
+  {
+    "model": "Lexus RC F GT500 '16",
+    "pp": 852,
+    "hp": 614,
+    "price": 800000,
+    "weight": 2249,
+    "transmission": "FR",
+    "categories": [
+      "gt500",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_227.jpg?v=1"
+  },
+  {
+    "model": "Lexus SC430 GT500 '08",
+    "pp": 803,
+    "hp": 516,
+    "price": 800000,
+    "weight": 2425,
+    "transmission": "FR",
+    "categories": [
+      "gt500",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_229.jpg?v=1"
+  },
+  {
+    "model": "Maserati GranTurismo S '08",
+    "pp": 539,
+    "hp": 439,
+    "price": 167000,
+    "weight": 3924,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_233.jpg?v=1"
+  },
+  {
+    "model": "Mazda Atenza Gr.3",
+    "pp": 727,
+    "hp": 567,
+    "price": 450000,
+    "weight": 2822,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_235.jpg?v=1"
+  },
+  {
+    "model": "Mazda Atenza Gr.3 Road Car",
+    "pp": 559,
+    "hp": 483,
+    "price": 300000,
+    "weight": 3197,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_236.jpg?v=1"
+  },
+  {
+    "model": "Mazda Atenza Gr.4",
+    "pp": 618,
+    "hp": 393,
+    "price": 350000,
+    "weight": 3042,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_237.jpg?v=1"
+  },
+  {
+    "model": "Mazda Atenza Sedan XD L Package '15",
+    "pp": 360,
+    "hp": 172,
+    "price": 39690,
+    "weight": 3527,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_238.jpg?v=1"
+  },
+  {
+    "model": "Mazda Demio XD Touring '15",
+    "pp": 310,
+    "hp": 103,
+    "price": 19500,
+    "weight": 2381,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_239.jpg?v=1"
+  },
+  {
+    "model": "Mazda Eunos Roadster (NA) '89",
+    "pp": 368,
+    "hp": 119,
+    "price": 35000,
+    "weight": 2072,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_240.jpg?v=4"
+  },
+  {
+    "model": "Mazda LM55 VGT",
+    "pp": 970,
+    "hp": null,
+    "price": 1000000,
+    "weight": null,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_241.jpg?v=1"
+  },
+  {
+    "model": "Mazda LM55 VGT (Gr.1)",
+    "pp": 926,
+    "hp": 641,
+    "price": 1000000,
+    "weight": 1940,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_242.jpg?v=1"
+  },
+  {
+    "model": "Mazda Roadster S (ND) '15",
+    "pp": 403,
+    "hp": 128,
+    "price": 24950,
+    "weight": 2183,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_250.jpg?v=1"
+  },
+  {
+    "model": "Mazda Roadster Touring Car",
+    "pp": 515,
+    "hp": 205,
+    "price": 90000,
+    "weight": 1753,
+    "transmission": "FR",
+    "categories": [
+      "professionally tuned"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_251.jpg?v=1"
+  },
+  {
+    "model": "Mazda RX-7 GT-X (FC) '90",
+    "pp": 437,
+    "hp": 203,
+    "price": 70000,
+    "weight": 2756,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_243.jpg?v=2"
+  },
+  {
+    "model": "Mazda RX-7 Spirit R Type A (FD) '02",
+    "pp": 516,
+    "hp": 292,
+    "price": 250000,
+    "weight": 2800,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_244.jpg?v=1"
+  },
+  {
+    "model": "Mazda RX-8 Spirit R '12",
+    "pp": 487,
+    "hp": 230,
+    "price": 32500,
+    "weight": 2976,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_245.jpg?v=1"
+  },
+  {
+    "model": "Mazda RX-Vision '15",
+    "pp": 626,
+    "hp": 517,
+    "price": 1000000,
+    "weight": 2844,
+    "transmission": "FR",
+    "categories": [
+      "concept car",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_246.jpg?v=1"
+  },
+  {
+    "model": "Mazda RX-VISION GT3 CONCEPT",
+    "pp": 740,
+    "hp": 562,
+    "price": 450000,
+    "weight": 2756,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_247.jpg?v=1"
+  },
+  {
+    "model": "Mazda RX-VISION GT3 CONCEPT Stealth Model",
+    "pp": 740,
+    "hp": 562,
+    "price": null,
+    "weight": 2756,
+    "transmission": "FR",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_248.jpg?v=1"
+  },
+  {
+    "model": "McLaren 650S '14",
+    "pp": 629,
+    "hp": 641,
+    "price": 340000,
+    "weight": 2932,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_252.jpg?v=1"
+  },
+  {
+    "model": "McLaren 650S Gr.4",
+    "pp": 638,
+    "hp": 399,
+    "price": 350000,
+    "weight": 2866,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_254.jpg?v=1"
+  },
+  {
+    "model": "McLaren 650S GT3 '15",
+    "pp": 728,
+    "hp": 542,
+    "price": 450000,
+    "weight": 2734,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_253.jpg?v=1"
+  },
+  {
+    "model": "McLaren McLaren F1 '94",
+    "pp": 642,
+    "hp": 626,
+    "price": 18500000,
+    "weight": 2513,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_256.jpg?v=1"
+  },
+  {
+    "model": "McLaren McLaren P1 GTR '16",
+    "pp": 797,
+    "hp": 986,
+    "price": 3600000,
+    "weight": 2965,
+    "transmission": "MR",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_258.jpg?v=1"
+  },
+  {
+    "model": "McLaren McLaren VGT",
+    "pp": 989,
+    "hp": 1,
+    "price": 1000000,
+    "weight": 1984,
+    "transmission": "MR",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_259.jpg?v=1"
+  },
+  {
+    "model": "McLaren McLaren VGT (Gr.1)",
+    "pp": 935,
+    "hp": 936,
+    "price": 1000000,
+    "weight": 1984,
+    "transmission": "MR",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_260.jpg?v=1"
+  },
+  {
+    "model": "McLaren MP4-12C '10",
+    "pp": 620,
+    "hp": 600,
+    "price": 225000,
+    "weight": 2976,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_255.jpg?v=1"
+  },
+  {
+    "model": "Mercedes-Benz Sauber Mercedes C9 '89",
+    "pp": 878,
+    "hp": 710,
+    "price": 3000000,
+    "weight": 1969,
+    "transmission": "MR",
+    "categories": [
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_265.jpg?v=1"
+  },
+  {
+    "model": "Mercedes-Benz SLR McLaren 2009",
+    "pp": 595,
+    "hp": 616,
+    "price": 600000,
+    "weight": 3898,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_264.jpg?v=2"
+  },
+  {
+    "model": "MINI MINI Clubman VGT",
+    "pp": 660,
+    "hp": 388,
+    "price": 1000000,
+    "weight": 2315,
+    "transmission": "4WD",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_230.jpg?v=1"
+  },
+  {
+    "model": "MINI Mini Cooper S '05",
+    "pp": 419,
+    "hp": 167,
+    "price": 28500,
+    "weight": 2601,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_231.jpg?v=2"
+  },
+  {
+    "model": "MINI Mini-Cooper 'S' '65",
+    "pp": 251,
+    "hp": 65,
+    "price": 38000,
+    "weight": 1334,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_232.jpg?v=2"
+  },
+  {
+    "model": "Mitsubishi Concept XR-PHEV EVOLUTION VGT",
+    "pp": 699,
+    "hp": 502,
+    "price": 1000000,
+    "weight": 2976,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_266.jpg?v=1"
+  },
+  {
+    "model": "Mitsubishi GTO Twin Turbo '91",
+    "pp": 451,
+    "hp": 289,
+    "price": 48900,
+    "weight": 3748,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_267.jpg?v=1"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final '15",
+    "pp": 503,
+    "hp": 309,
+    "price": 60000,
+    "weight": 3373,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_268.jpg?v=1"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Gr.3",
+    "pp": 731,
+    "hp": 610,
+    "price": 450000,
+    "weight": 2844,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_269.jpg?v=1"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Gr.4",
+    "pp": 628,
+    "hp": 389,
+    "price": 350000,
+    "weight": 2932,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_270.jpg?v=1"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Gr.B Rally Car",
+    "pp": 628,
+    "hp": 521,
+    "price": 450000,
+    "weight": 2844,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_271.jpg?v=1"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Gr.B Road Car",
+    "pp": 556,
+    "hp": 473,
+    "price": 300000,
+    "weight": 3142,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_272.jpg?v=1"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution IV GSR '96",
+    "pp": 462,
+    "hp": 273,
+    "price": 45300,
+    "weight": 2976,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_273.jpg?v=1"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution V GSR '98",
+    "pp": 475,
+    "hp": 306,
+    "price": 67100,
+    "weight": 2998,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_274.jpg?v=2"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution VI GSR T.M. SCP '99",
+    "pp": 499,
+    "hp": 311,
+    "price": 162400,
+    "weight": 2998,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_275.jpg?v=4"
+  },
+  {
+    "model": "Nissan 180SX Type X '96",
+    "pp": 442,
+    "hp": 206,
+    "price": 65000,
+    "weight": 2690,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_276.jpg?v=1"
+  },
+  {
+    "model": "Nissan Fairlady Z (Z34) '08",
+    "pp": 511,
+    "hp": 331,
+    "price": 43750,
+    "weight": 3373,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_278.jpg?v=1"
+  },
+  {
+    "model": "Nissan Fairlady Z 300ZX TT 2seater '89",
+    "pp": 468,
+    "hp": 276,
+    "price": 52900,
+    "weight": 3329,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_279.jpg?v=1"
+  },
+  {
+    "model": "Nissan Fairlady Z Version S (Z33) '07",
+    "pp": 518,
+    "hp": 310,
+    "price": 36300,
+    "weight": 3263,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_281.jpg?v=2"
+  },
+  {
+    "model": "Nissan GT-R '17",
+    "pp": 587,
+    "hp": 564,
+    "price": 94770,
+    "weight": 3902,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_282.jpg?v=1"
+  },
+  {
+    "model": "Nissan GT-R GR.4",
+    "pp": 638,
+    "hp": 428,
+    "price": 350000,
+    "weight": 3197,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_285.jpg?v=1"
+  },
+  {
+    "model": "Nissan GT-R Gr.B Rally Car",
+    "pp": 652,
+    "hp": 542,
+    "price": 450000,
+    "weight": 2976,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_286.jpg?v=1"
+  },
+  {
+    "model": "Nissan GT-R GT500 '08",
+    "pp": 804,
+    "hp": 527,
+    "price": 1000000,
+    "weight": 2425,
+    "transmission": "FR",
+    "categories": [
+      "gt500",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_283.jpg?v=1"
+  },
+  {
+    "model": "Nissan GT-R LM NISMO '15",
+    "pp": 904,
+    "hp": 604,
+    "price": 1000000,
+    "weight": 1940,
+    "transmission": "FF",
+    "categories": [
+      "hybrid car",
+      "le mans",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_287.jpg?v=1"
+  },
+  {
+    "model": "Nissan GT-R NISMO '17",
+    "pp": 619,
+    "hp": 591,
+    "price": 187000,
+    "weight": 3836,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_288.jpg?v=1"
+  },
+  {
+    "model": "Nissan GT-R NISMO GT3 '13",
+    "pp": 725,
+    "hp": 591,
+    "price": 450000,
+    "weight": 2866,
+    "transmission": "FR",
+    "categories": [
+      "nurburgring 24 hours",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_289.jpg?v=1"
+  },
+  {
+    "model": "Nissan GT-R NISMO GT500 '16",
+    "pp": 853,
+    "hp": 612,
+    "price": 800000,
+    "weight": 2249,
+    "transmission": "FR",
+    "categories": [
+      "gt500",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_290.jpg?v=1"
+  },
+  {
+    "model": "Nissan GT-R Safety Car",
+    "pp": 596,
+    "hp": 564,
+    "price": 130000,
+    "weight": 3836,
+    "transmission": "4WD",
+    "categories": [
+      "road car",
+      "safety car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_291.jpg?v=1"
+  },
+  {
+    "model": "Nissan NISSAN CONCEPT 2020 VGT",
+    "pp": 683,
+    "hp": null,
+    "price": 1000000,
+    "weight": null,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_292.jpg?v=1"
+  },
+  {
+    "model": "Nissan R32 GT-R V-spec II '94",
+    "pp": 502,
+    "hp": 306,
+    "price": 176000,
+    "weight": 3307,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_293.jpg?v=2"
+  },
+  {
+    "model": "Nissan R33 GT-R V-spec '97",
+    "pp": 501,
+    "hp": 324,
+    "price": null,
+    "weight": 3395,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_294.jpg?v=2"
+  },
+  {
+    "model": "Nissan R34 GT-R V-spec II Nür '02",
+    "pp": 518,
+    "hp": 336,
+    "price": 450000,
+    "weight": 3439,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_295.jpg?v=2"
+  },
+  {
+    "model": "Nissan Silvia K's Dia Selection (S13) '90",
+    "pp": 402,
+    "hp": 174,
+    "price": null,
+    "weight": 2513,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_299.jpg?v=3"
+  },
+  {
+    "model": "Nissan Silvia Q's (S13) '88",
+    "pp": 365,
+    "hp": 132,
+    "price": 33900,
+    "weight": 2403,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_300.jpg?v=2"
+  },
+  {
+    "model": "Nissan SILVIA spec-R Aero (S15) '02",
+    "pp": 485,
+    "hp": 246,
+    "price": 68000,
+    "weight": 2734,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_297.jpg?v=2"
+  },
+  {
+    "model": "Nissan Silvia spec-R Aero (S15) Touring Car",
+    "pp": 642,
+    "hp": 355,
+    "price": 350000,
+    "weight": 2205,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_301.jpg?v=1"
+  },
+  {
+    "model": "Nissan Z Performance '23",
+    "pp": 536,
+    "hp": 399,
+    "price": 69660,
+    "weight": 3402,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_303.jpg?v=1"
+  },
+  {
+    "model": "Pagani Huayra '13",
+    "pp": 675,
+    "hp": 730,
+    "price": 1350000,
+    "weight": 2976,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_304.jpg?v=1"
+  },
+  {
+    "model": "Pagani Zonda R '09",
+    "pp": 781,
+    "hp": 737,
+    "price": 1800000,
+    "weight": 2359,
+    "transmission": "MR",
+    "categories": [
+      "concept car",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_305.jpg?v=1"
+  },
+  {
+    "model": "Peugeot 208 GTI by Peugeot Sport '14",
+    "pp": 432,
+    "hp": 204,
+    "price": 30000,
+    "weight": 2646,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_307.jpg?v=1"
+  },
+  {
+    "model": "Peugeot 908 HDi FAP '10",
+    "pp": 926,
+    "hp": 700,
+    "price": 1000000,
+    "weight": 2050,
+    "transmission": "MR",
+    "categories": [
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_308.jpg?v=1"
+  },
+  {
+    "model": "Peugeot L500R HYbrid VGT 2017",
+    "pp": 656,
+    "hp": 268,
+    "price": 1000000,
+    "weight": 2205,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_309.jpg?v=1"
+  },
+  {
+    "model": "Peugeot L750R HYbrid VGT 2017",
+    "pp": 949,
+    "hp": 693,
+    "price": 1000000,
+    "weight": 1819,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_310.jpg?v=1"
+  },
+  {
+    "model": "Peugeot PEUGEOT VGT",
+    "pp": 806,
+    "hp": 873,
+    "price": 1000000,
+    "weight": 1929,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_311.jpg?v=1"
+  },
+  {
+    "model": "Peugeot PEUGEOT VGT Gr.3",
+    "pp": 714,
+    "hp": 542,
+    "price": 450000,
+    "weight": 2756,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_312.jpg?v=1"
+  },
+  {
+    "model": "Peugeot RCZ Gr.3",
+    "pp": 726,
+    "hp": 520,
+    "price": 450000,
+    "weight": 2646,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_314.jpg?v=1"
+  },
+  {
+    "model": "Peugeot RCZ Gr.3 Road Car",
+    "pp": 544,
+    "hp": 468,
+    "price": 300000,
+    "weight": 3086,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_315.jpg?v=1"
+  },
+  {
+    "model": "Peugeot RCZ Gr.4",
+    "pp": 632,
+    "hp": 345,
+    "price": 350000,
+    "weight": 2701,
+    "transmission": "FF",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_316.jpg?v=1"
+  },
+  {
+    "model": "Peugeot RCZ Gr.B Rally Car",
+    "pp": 646,
+    "hp": 516,
+    "price": 450000,
+    "weight": 2646,
+    "transmission": "4WD",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_317.jpg?v=1"
+  },
+  {
+    "model": "Peugeot RCZ GT Line '15",
+    "pp": 408,
+    "hp": 152,
+    "price": 46600,
+    "weight": 2976,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_313.jpg?v=1"
+  },
+  {
+    "model": "Plymouth XNR Ghia Roadster '60",
+    "pp": 424,
+    "hp": 250,
+    "price": 1600000,
+    "weight": 3307,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_319.jpg?v=2"
+  },
+  {
+    "model": "Pontiac Firebird Trans Am '78",
+    "pp": 397,
+    "hp": 219,
+    "price": 96200,
+    "weight": 3616,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_320.jpg?v=2"
+  },
+  {
+    "model": "Porsche 356 A/1500 GS Carrera '56",
+    "pp": 351,
+    "hp": 97,
+    "price": 615000,
+    "weight": 1852,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_321.jpg?v=1"
+  },
+  {
+    "model": "Porsche 911 Carrera RS (964) '92",
+    "pp": 512,
+    "hp": 251,
+    "price": 253000,
+    "weight": 2712,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_323.jpg?v=1"
+  },
+  {
+    "model": "Porsche 911 Carrera RS (993) '95",
+    "pp": 530,
+    "hp": 295,
+    "price": 260000,
+    "weight": 2800,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_324.jpg?v=1"
+  },
+  {
+    "model": "Porsche 911 Carrera RS CS (993) '95",
+    "pp": 528,
+    "hp": 295,
+    "price": 421000,
+    "weight": 2723,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_325.jpg?v=1"
+  },
+  {
+    "model": "Porsche 911 GT1 Strassenversion '97",
+    "pp": 635,
+    "hp": 533,
+    "price": 3000000,
+    "weight": 2646,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_326.jpg?v=1"
+  },
+  {
+    "model": "Porsche 911 GT3 (996) '01",
+    "pp": 551,
+    "hp": 354,
+    "price": 180000,
+    "weight": 2976,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_327.jpg?v=1"
+  },
+  {
+    "model": "Porsche 911 GT3 (997) '09",
+    "pp": 579,
+    "hp": 428,
+    "price": 160000,
+    "weight": 3075,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_328.jpg?v=2"
+  },
+  {
+    "model": "Porsche 911 GT3 RS (991) '16",
+    "pp": 633,
+    "hp": 491,
+    "price": 253000,
+    "weight": 3131,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_329.jpg?v=1"
+  },
+  {
+    "model": "Porsche 911 RSR (991) '17",
+    "pp": 726,
+    "hp": 509,
+    "price": 450000,
+    "weight": 2740,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_330.jpg?v=1"
+  },
+  {
+    "model": "Porsche 911 Turbo (930) '81",
+    "pp": 494,
+    "hp": 295,
+    "price": 215500,
+    "weight": 2866,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_331.jpg?v=5"
+  },
+  {
+    "model": "Porsche 917K '70",
+    "pp": 755,
+    "hp": 598,
+    "price": 18000000,
+    "weight": 1764,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_333.jpg?v=1"
+  },
+  {
+    "model": "Porsche 917K LIVING LEGEND",
+    "pp": 818,
+    "hp": 976,
+    "price": 1000000,
+    "weight": 2690,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_332.jpg?v=1"
+  },
+  {
+    "model": "Porsche 919 Hybrid '16",
+    "pp": 936,
+    "hp": 499,
+    "price": 3000000,
+    "weight": 1929,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_334.jpg?v=1"
+  },
+  {
+    "model": "Porsche Carrera GT '04",
+    "pp": 621,
+    "hp": 603,
+    "price": 2300000,
+    "weight": 3042,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_336.jpg?v=1"
+  },
+  {
+    "model": "Porsche Cayman GT4 Clubsport '16",
+    "pp": 649,
+    "hp": 379,
+    "price": 350000,
+    "weight": 2866,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_337.jpg?v=1"
+  },
+  {
+    "model": "Porsche Porsche VGT",
+    "pp": 809,
+    "hp": 1,
+    "price": 1000000,
+    "weight": 3064,
+    "transmission": "4WD",
+    "categories": [
+      "electric car",
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_338.jpg?v=1"
+  },
+  {
+    "model": "Porsche TAYCAN TURBO S 2019",
+    "pp": 601,
+    "hp": 751,
+    "price": 230000,
+    "weight": 5060,
+    "transmission": "4WD",
+    "categories": [
+      "electric car",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_340.jpg?v=1"
+  },
+  {
+    "model": "Radical SR3 SL '13",
+    "pp": 521,
+    "hp": 239,
+    "price": 126500,
+    "weight": 1709,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_343.jpg?v=1"
+  },
+  {
+    "model": "RE Amemiya FD3S RX-7",
+    "pp": 554,
+    "hp": 366,
+    "price": 100000,
+    "weight": 2734,
+    "transmission": "FR",
+    "categories": [
+      "professionally tuned"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_341.jpg?v=1"
+  },
+  {
+    "model": "Renault Clio R.S. 220 Trophy '15",
+    "pp": 448,
+    "hp": 216,
+    "price": 32000,
+    "weight": 2599,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_344.jpg?v=1"
+  },
+  {
+    "model": "Renault Clio R.S. 220 Trophy '16",
+    "pp": 446,
+    "hp": 216,
+    "price": 32000,
+    "weight": 2654,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_345.jpg?v=1"
+  },
+  {
+    "model": "Renault Mégane Gr.4",
+    "pp": 648,
+    "hp": 350,
+    "price": 350000,
+    "weight": 2425,
+    "transmission": "FF",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_347.jpg?v=1"
+  },
+  {
+    "model": "Renault Mégane R.S. Trophy '11",
+    "pp": 482,
+    "hp": 261,
+    "price": 38500,
+    "weight": 3058,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_348.jpg?v=1"
+  },
+  {
+    "model": "Renault Mégane RS Trophy Safety Car",
+    "pp": 483,
+    "hp": 261,
+    "price": 50000,
+    "weight": 3058,
+    "transmission": "FF",
+    "categories": [
+      "road car",
+      "safety car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_349.jpg?v=1"
+  },
+  {
+    "model": "Renault Mégane Trophy '11",
+    "pp": 664,
+    "hp": 359,
+    "price": 350000,
+    "weight": 2105,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_350.jpg?v=1"
+  },
+  {
+    "model": "Renault R.S.01 '16",
+    "pp": 748,
+    "hp": 542,
+    "price": 500000,
+    "weight": 2522,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_351.jpg?v=1"
+  },
+  {
+    "model": "Renault R.S.01 GT3 '16",
+    "pp": 739,
+    "hp": 534,
+    "price": 450000,
+    "weight": 2690,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_352.jpg?v=1"
+  },
+  {
+    "model": "Renault R5 Turbo '80",
+    "pp": 392,
+    "hp": 159,
+    "price": 154200,
+    "weight": 2138,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_353.jpg?v=2"
+  },
+  {
+    "model": "RUF CTR3 '07",
+    "pp": 661,
+    "hp": 690,
+    "price": 900000,
+    "weight": 3086,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "road car"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_342.jpg?v=1"
+  },
+  {
+    "model": "Shelby G.T.350 '65",
+    "pp": 449,
+    "hp": 304,
+    "price": 487000,
+    "weight": 2800,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_357.jpg?v=2"
+  },
+  {
+    "model": "Subaru BRZ Drift Car '17",
+    "pp": 604,
+    "hp": 1,
+    "price": 400000,
+    "weight": 3159,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_358.jpg?v=1"
+  },
+  {
+    "model": "Subaru BRZ S '15",
+    "pp": 428,
+    "hp": 197,
+    "price": 30000,
+    "weight": 2712,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_359.jpg?v=1"
+  },
+  {
+    "model": "Subaru BRZ STI Sport '18",
+    "pp": 451,
+    "hp": 203,
+    "price": 36000,
+    "weight": 2756,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_360.jpg?v=1"
+  },
+  {
+    "model": "Subaru Impreza Coupe WRX Type R STi Ver.VI '99",
+    "pp": 457,
+    "hp": 275,
+    "price": null,
+    "weight": 2778,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_362.jpg?v=1"
+  },
+  {
+    "model": "Subaru VIZIV GT VGT",
+    "pp": 697,
+    "hp": 630,
+    "price": 1000000,
+    "weight": 3042,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_363.jpg?v=1"
+  },
+  {
+    "model": "Subaru WRX Gr.3",
+    "pp": 726,
+    "hp": 591,
+    "price": 450000,
+    "weight": 2822,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_364.jpg?v=1"
+  },
+  {
+    "model": "Subaru WRX Gr.4",
+    "pp": 631,
+    "hp": 377,
+    "price": 350000,
+    "weight": 2910,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_365.jpg?v=1"
+  },
+  {
+    "model": "Subaru WRX Gr.B Rally Car",
+    "pp": 645,
+    "hp": 521,
+    "price": 450000,
+    "weight": 2822,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_366.jpg?v=1"
+  },
+  {
+    "model": "Subaru WRX Gr.B Road Car",
+    "pp": 544,
+    "hp": 473,
+    "price": 300000,
+    "weight": 3142,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_367.jpg?v=1"
+  },
+  {
+    "model": "Subaru WRX STI Isle of Man '16",
+    "pp": 679,
+    "hp": 578,
+    "price": 370000,
+    "weight": 2513,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_368.jpg?v=1"
+  },
+  {
+    "model": "Subaru WRX STI Type S '14",
+    "pp": 495,
+    "hp": 302,
+    "price": 41148,
+    "weight": 3285,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_369.jpg?v=1"
+  },
+  {
+    "model": "Super Formula SF19 Super Formula / Honda '19",
+    "pp": 976,
+    "hp": 639,
+    "price": 1000000,
+    "weight": 1455,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_370.jpg?v=1"
+  },
+  {
+    "model": "Super Formula SF19 Super Formula / Toyota '19",
+    "pp": 976,
+    "hp": 639,
+    "price": 1000000,
+    "weight": 1455,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_371.jpg?v=1"
+  },
+  {
+    "model": "Suzuki Swift Sport '07",
+    "pp": 386,
+    "hp": 123,
+    "price": 16275,
+    "weight": 2337,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_372.jpg?v=2"
+  },
+  {
+    "model": "Suzuki Swift Sport '17",
+    "pp": 410,
+    "hp": 137,
+    "price": 18360,
+    "weight": 2138,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_373.jpg?v=1"
+  },
+  {
+    "model": "Suzuki Swift Sport Gr.4",
+    "pp": 664,
+    "hp": 345,
+    "price": 350000,
+    "weight": 1984,
+    "transmission": "FF",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_374.jpg?v=1"
+  },
+  {
+    "model": "Tesla Model S Signature Performance '12",
+    "pp": 519,
+    "hp": 410,
+    "price": 92000,
+    "weight": 4449,
+    "transmission": "RR",
+    "categories": [
+      "electric car",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_376.jpg?v=1"
+  },
+  {
+    "model": "Toyota 86 Gr.4",
+    "pp": 639,
+    "hp": 358,
+    "price": 350000,
+    "weight": 2646,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_381.jpg?v=1"
+  },
+  {
+    "model": "Toyota 86 Gr.B Rally Car",
+    "pp": 663,
+    "hp": 516,
+    "price": 450000,
+    "weight": 2601,
+    "transmission": "4WD",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_382.jpg?v=1"
+  },
+  {
+    "model": "Toyota 86 GRMN '16",
+    "pp": 463,
+    "hp": 214,
+    "price": 64800,
+    "weight": 2690,
+    "transmission": "FR",
+    "categories": [
+      "professionally tuned"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_378.jpg?v=1"
+  },
+  {
+    "model": "Toyota 86 GT '15",
+    "pp": 428,
+    "hp": 197,
+    "price": 29052,
+    "weight": 2712,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_379.jpg?v=1"
+  },
+  {
+    "model": "Toyota 86 GT\"Limited\" '16",
+    "pp": 431,
+    "hp": 203,
+    "price": 31840,
+    "weight": 2734,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_380.jpg?v=1"
+  },
+  {
+    "model": "Toyota Aqua S '11",
+    "pp": 349,
+    "hp": 120,
+    "price": 17900,
+    "weight": 2381,
+    "transmission": "FF",
+    "categories": [
+      "hybrid car",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_383.jpg?v=1"
+  },
+  {
+    "model": "Toyota Celica GT-Four (ST205) '94",
+    "pp": 450,
+    "hp": 250,
+    "price": 78600,
+    "weight": 3042,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_384.jpg?v=2"
+  },
+  {
+    "model": "Toyota Corolla Levin 1600GT APEX (AE86) '83",
+    "pp": 360,
+    "hp": 126,
+    "price": null,
+    "weight": 2072,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_385.jpg?v=1"
+  },
+  {
+    "model": "Toyota Crown Athlete G '13",
+    "pp": 484,
+    "hp": 309,
+    "price": 57500,
+    "weight": 3638,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_386.jpg?v=1"
+  },
+  {
+    "model": "Toyota Crown Athlete G Safety Car",
+    "pp": 493,
+    "hp": 309,
+    "price": 65000,
+    "weight": 3638,
+    "transmission": "FR",
+    "categories": [
+      "road car",
+      "safety car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_387.jpg?v=1"
+  },
+  {
+    "model": "Toyota FT-1",
+    "pp": 581,
+    "hp": null,
+    "price": 500000,
+    "weight": null,
+    "transmission": "FR",
+    "categories": [
+      "concept car",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_388.jpg?v=1"
+  },
+  {
+    "model": "Toyota FT-1 VGT",
+    "pp": 775,
+    "hp": null,
+    "price": 1000000,
+    "weight": null,
+    "transmission": "FR",
+    "categories": [
+      "hybrid car",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_389.jpg?v=1"
+  },
+  {
+    "model": "Toyota FT-1 VGT (Gr.3)",
+    "pp": 723,
+    "hp": 544,
+    "price": 450000,
+    "weight": 2822,
+    "transmission": "FR",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_390.jpg?v=1"
+  },
+  {
+    "model": "Toyota GR Supra Race Car '19",
+    "pp": 640,
+    "hp": 394,
+    "price": 350000,
+    "weight": 3042,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_393.jpg?v=1"
+  },
+  {
+    "model": "Toyota GR Supra Racing Concept '18",
+    "pp": 726,
+    "hp": 591,
+    "price": 450000,
+    "weight": 2740,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_394.jpg?v=1"
+  },
+  {
+    "model": "Toyota GR Supra RZ '19",
+    "pp": 535,
+    "hp": 335,
+    "price": 70000,
+    "weight": 3351,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_391.jpg?v=1"
+  },
+  {
+    "model": "Toyota GR Supra RZ '20",
+    "pp": 545,
+    "hp": 382,
+    "price": 73000,
+    "weight": 3373,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_392.jpg?v=1"
+  },
+  {
+    "model": "Toyota GR Yaris RZ \"High performance\" '20",
+    "pp": 497,
+    "hp": 268,
+    "price": 45600,
+    "weight": 2844,
+    "transmission": "4WD",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_395.jpg?v=1"
+  },
+  {
+    "model": "Toyota GR86 '21",
+    "pp": 482,
+    "hp": 231,
+    "price": 33500,
+    "weight": 2800,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_396.jpg?v=1"
+  },
+  {
+    "model": "Toyota Prius G '09",
+    "pp": 369,
+    "hp": 120,
+    "price": 24500,
+    "weight": 2976,
+    "transmission": "FF",
+    "categories": [
+      "hybrid car",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_398.jpg?v=1"
+  },
+  {
+    "model": "Toyota S-FR '15",
+    "pp": 399,
+    "hp": 133,
+    "price": 19500,
+    "weight": 2315,
+    "transmission": "FR",
+    "categories": [
+      "concept car",
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_399.jpg?v=1"
+  },
+  {
+    "model": "Toyota S-FR Racing Concept '16",
+    "pp": 543,
+    "hp": 349,
+    "price": 200000,
+    "weight": 2535,
+    "transmission": "FR",
+    "categories": [
+      "concept car",
+      "professionally tuned"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_400.jpg?v=1"
+  },
+  {
+    "model": "Toyota Supra 3.0GT Turbo A '88",
+    "pp": 466,
+    "hp": 266,
+    "price": 130000,
+    "weight": 3373,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_404.jpg?v=1"
+  },
+  {
+    "model": "Toyota Supra GT500 '97",
+    "pp": 729,
+    "hp": 492,
+    "price": 1500000,
+    "weight": 2535,
+    "transmission": "FR",
+    "categories": [
+      "gt500",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_405.jpg?v=1"
+  },
+  {
+    "model": "Toyota Supra RZ '97",
+    "pp": 500,
+    "hp": 330,
+    "price": 220000,
+    "weight": 3329,
+    "transmission": "FR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_406.jpg?v=3"
+  },
+  {
+    "model": "Toyota TS030 Hybrid '12",
+    "pp": 917,
+    "hp": 529,
+    "price": 1000000,
+    "weight": 1984,
+    "transmission": "MR",
+    "categories": [
+      "hybrid car",
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_407.jpg?v=1"
+  },
+  {
+    "model": "Toyota TS050 - Hybrid '16",
+    "pp": 927,
+    "hp": 493,
+    "price": 1000000,
+    "weight": 1929,
+    "transmission": "4WD",
+    "categories": [
+      "hybrid car",
+      "le mans",
+      "midship",
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_408.jpg?v=1"
+  },
+  {
+    "model": "Toyota Tundra TRD Pro '19",
+    "pp": 400,
+    "hp": 379,
+    "price": 62000,
+    "weight": 5633,
+    "transmission": "4WD",
+    "categories": [
+      "pickup truck",
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_409.jpg?v=2"
+  },
+  {
+    "model": "Volkswagen Beetle Gr.3",
+    "pp": 742,
+    "hp": 591,
+    "price": 450000,
+    "weight": 2646,
+    "transmission": "FR",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_410.jpg?v=1"
+  },
+  {
+    "model": "Volkswagen Golf I GTI '83",
+    "pp": 347,
+    "hp": 109,
+    "price": 48300,
+    "weight": 1962,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_413.jpg?v=2"
+  },
+  {
+    "model": "Volkswagen Golf VII GTI '14",
+    "pp": 442,
+    "hp": 216,
+    "price": 38330,
+    "weight": 3064,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_414.jpg?v=1"
+  },
+  {
+    "model": "Volkswagen GTI Roadster VGT",
+    "pp": 721,
+    "hp": 551,
+    "price": 1000000,
+    "weight": 2646,
+    "transmission": "4WD",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_411.jpg?v=1"
+  },
+  {
+    "model": "Volkswagen GTI Supersport VGT",
+    "pp": 724,
+    "hp": 551,
+    "price": 1000000,
+    "weight": 2646,
+    "transmission": "4WD",
+    "categories": [
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_412.jpg?v=1"
+  },
+  {
+    "model": "Volkswagen GTI VGT (Gr.3)",
+    "pp": 713,
+    "hp": 551,
+    "price": 450000,
+    "weight": 2778,
+    "transmission": "MR",
+    "categories": [
+      "midship",
+      "racing car",
+      "vision gran turismo"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_420.jpg?v=1"
+  },
+  {
+    "model": "Volkswagen Polo GTI '14",
+    "pp": 422,
+    "hp": 189,
+    "price": 28000,
+    "weight": 2804,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_415.jpg?v=1"
+  },
+  {
+    "model": "Volkswagen Sambabus Typ 2 '62",
+    "pp": 119,
+    "hp": 34,
+    "price": 75000,
+    "weight": 2414,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com//gts/images/cars/gts_car_178.jpg?v=gts"
+  },
+  {
+    "model": "Volkswagen Scirocco Gr.4",
+    "pp": 656,
+    "hp": 358,
+    "price": 350000,
+    "weight": 2315,
+    "transmission": "FF",
+    "categories": [
+      "racing car"
+    ],
+    "profile": "track_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_417.jpg?v=1"
+  },
+  {
+    "model": "Volkswagen Scirocco R '10",
+    "pp": 498,
+    "hp": 252,
+    "price": 51500,
+    "weight": 3109,
+    "transmission": "FF",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_418.jpg?v=1"
+  },
+  {
+    "model": "Volkswagen Volkswagen 1200 '66",
+    "pp": 177,
+    "hp": 33,
+    "price": 32700,
+    "weight": 1720,
+    "transmission": "RR",
+    "categories": [
+      "road car"
+    ],
+    "profile": "street_amateur",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_419.jpg?v=5"
+  },
+  {
+    "model": "Wicked Fabrication Wicked Fabrication GT 51",
+    "pp": 518,
+    "hp": 372,
+    "price": 300000,
+    "weight": 2950,
+    "transmission": "FR",
+    "categories": [
+      "gran turismo award",
+      "professionally tuned"
+    ],
+    "profile": "track_inter",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_421.jpg?v=1"
+  },
+  {
+    "model": "Zagato IsoRivolta Zagato VGT",
+    "pp": 649,
+    "hp": 559,
+    "price": 1000000,
+    "weight": 2535,
+    "transmission": "FR",
+    "categories": [
+      "road car",
+      "vision gran turismo"
+    ],
+    "profile": "street_pro",
+    "imgUrl": "https://www.kudosprime.com/images/cars/gt7_car_422.jpg?v=1"
+  }
+]

@@ -44,13 +44,18 @@ function classifyProfile(car) {
   if (car.pp === null) return 'unknown';
 
   const isRacing = car.categories.some(c =>
-    ['racing car', 'gt500', 'le mans', 'nurburgring 24 hours', 'kart'].includes(c)
+    ['racing car', 'gt500', 'le mans', 'nurburgring 24 hours', 'kart', 
+     'professionally tuned', 'hypercar', 'gran turismo award'].includes(c)
   );
 
   let level;
-  if (car.pp > 600)      level = 'pro';
-  else if (car.pp >= 400) level = 'inter';
-  else                    level = 'amateur';
+  if (isRacing) {
+    level = car.pp > 600 ? 'pro' : 'inter'; // pista só tem pro e inter
+  } else {
+    if (car.pp > 600)       level = 'pro';
+    else if (car.pp >= 400) level = 'inter';
+    else                    level = 'amateur';
+  }
 
   return isRacing
     ? 'track_' + level

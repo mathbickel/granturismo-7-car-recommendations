@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs": "^4.22.0"
+    "@tensorflow/tfjs": "^4.22.0",
+    "csv-parse": "^6.2.1"
   }
 }
